@@ -15,8 +15,20 @@ The Input format is defined as follows
 <li> Goal State's Row and Column (0-indexed) </li>
 <li> Number of Walls = k </li>
 <li> The Wall Rows and columns in k lines </li>
-<li> Sample Test Case is as follows </li>
 </ul>
+Sample Test Case is given below
+8 11
+7 0
+0 10
+7
+2 3
+2 4
+2 5
+2 6
+3 6
+4 6
+5 6
+<br>
 
 
 </p>
