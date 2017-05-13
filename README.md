@@ -17,18 +17,17 @@ The Input format is defined as follows
 <li> The Wall Rows and columns in k lines </li>
 </ul>
 Sample Test Case is given below
-8 11
-7 0
-0 10
-7
-2 3
-2 4
-2 5
-2 6
-3 6
-4 6
-5 6
-<br>
+8 11<br>
+7 0<br>
+0 10<br>
+7<br>
+2 3<br>
+2 4<br>
+2 5<br>
+2 6<br>
+3 6<br>
+4 6<br>
+5 6<br>
 
 
 </p>
