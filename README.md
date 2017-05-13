@@ -16,7 +16,7 @@ The Input format is defined as follows
 <li> Number of Walls = k </li>
 <li> The Wall Rows and columns in k lines </li>
 </ul>
-Sample Test Case is given below
+Sample Test Case is given below<br>
 8 11<br>
 7 0<br>
 0 10<br>
@@ -29,5 +29,7 @@ Sample Test Case is given below
 4 6<br>
 5 6<br>
 
+Shown below are some Sample Test Cases Outputs which shows the shortest path from start state to goal in the bottom of every picture<br>
+<img src="images/kk1.jpg" width="30%"><img src="images/kk2.jpg" width="30%"><img src="images/kk3.jpg" width="30%">
 
 </p>
