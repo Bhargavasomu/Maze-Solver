@@ -31,5 +31,8 @@ Sample Test Case is given below<br>
 
 Shown below are some Sample Test Cases Outputs which shows the shortest path from start state to goal in the bottom of every picture<br>
 <img src="Images/kk1.png"><img src="Images/kk2.png"><img src="Images/kk3.png">
-
+</p>
+## GUI Version
+<p>
+This Version includes a graphical interface where the user can define his maze(Start State,Goal State and walls) implemented in pygame. The user has to enter the number of Rows and press "Enter" button and then enter the number of Columns. Next in the main screen the first click on any block becomes the start state(Green Color) and the next click becomes the goal state(Red Color) and then the rest all clicks set the blocks to walls(Blue Color). Now on pressing the Go button the A* Algorithm runs and every step can be visualized graphically. It is the extended version of the Terminal Version.
 </p>
