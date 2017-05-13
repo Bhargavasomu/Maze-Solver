@@ -30,6 +30,6 @@ Sample Test Case is given below<br>
 5 6<br>
 
 Shown below are some Sample Test Cases Outputs which shows the shortest path from start state to goal in the bottom of every picture<br>
-<img src="Images/kk1.png" width="30%"><img src="Images/kk2.png" width="30%"><img src="Images/kk3.png" width="30%">
+<img src="Images/kk1.png"><img src="Images/kk2.png"><img src="Images/kk3.png">
 
 </p>
