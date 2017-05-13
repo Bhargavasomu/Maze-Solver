@@ -36,4 +36,5 @@ Shown below are some Sample Test Cases Outputs which shows the shortest path fro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 This Version includes a graphical interface where the user can define his maze(Start State,Goal State and walls) implemented in pygame. The user has to enter the number of Rows and press "Enter" button and then enter the number of Columns. Next in the main screen the first click on any block becomes the start state(Green Color) and the next click becomes the goal state(Red Color) and then the rest all clicks set the blocks to walls(Blue Color). Now on pressing the Go button the A* Algorithm runs and every step can be visualized graphically. It is the extended version of the Terminal Version.
+<br>A demo video of how to use the GUI version can be found in the Videos folder
 </p>
