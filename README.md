@@ -1,5 +1,7 @@
 # Maze-Solver
 A Maze Path Finder Implemented in Python with the help of A* Algorithm including both the Terminal Version and GUI Version
+## Basic Dependencies Required
+This program need pygame to be installed in your machine to run.
 ## Terminal Version
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,6 +37,6 @@ Shown below are some Sample Test Cases Outputs which shows the shortest path fro
 <h2>GUI Version</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;
-This Version includes a graphical interface where the user can define his maze(Start State,Goal State and walls) implemented in pygame. The user has to enter the number of Rows and press "Enter" button and then enter the number of Columns. Next in the main screen the first click on any block becomes the start state(Green Color) and the next click becomes the goal state(Red Color) and then the rest all clicks set the blocks to walls(Blue Color). Now on pressing the Go button the A* Algorithm runs and every step can be visualized graphically. It is the extended version of the Terminal Version.
+This Version includes a graphical interface(Slow and Faster Version) where the user can define his maze(Start State,Goal State and walls) implemented in pygame. The user has to enter the number of Rows and press "Enter" button and then enter the number of Columns. Next in the main screen the first click on any block becomes the start state(Green Color) and the next click becomes the goal state(Red Color) and then the rest all clicks set the blocks to walls(Blue Color). Now on pressing the Go button the A* Algorithm runs and every step can be visualized graphically. It is the extended version of the Terminal Version. The Slower Version gives the user some time to make sure that the step taken by the bot is rational. The faster version gives the path in real time unlike the slower version.
 <br>A demo video of how to use the GUI version can be found in the Videos folder
 </p>
